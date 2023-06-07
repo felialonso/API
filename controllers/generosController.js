@@ -1,4 +1,4 @@
-// Importar los modelos necesarios
+
 const { Genero, Cancione } = require('../database/models');
 
 // Controlador para obtener todos los géneros con sus canciones asociadas
